@@ -19,7 +19,7 @@ RSS機能
 --------
 
 CとWinAPI32で開発  
-数年前にがんばって開発したので、機能にpush。本当はC++で書き直したかったが、その気力がなくなり・・・・  
+数年前にがんばって開発したので、記念にpush。本当はC++で書き直したかったが、その気力がなくなり・・・・  
 ほとんど実装を忘れてる。
 
 ![NAちゃん](https://raw.githubusercontent.com/hatahata12/NA-CHAN/master/na.png)
